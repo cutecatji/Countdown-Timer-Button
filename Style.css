@@ -1,0 +1,13 @@
+#container{
+    margin:auto;
+    width:500px;
+    text-align: center;
+}
+button{
+    padding:10px;
+    border-radius:10px;
+    background-color:rgb(29, 251, 192);
+    font-size:30px;
+    height: 200px;
+    width:400px;
+}
