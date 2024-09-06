@@ -10,7 +10,7 @@ btn.onclick=()=>{
         document.querySelector("button").textContent=timeleft;
         if(timeleft<0)
         {
-            document.querySelector("button").textContent="Time Up Mr.Basavraj!";
+            document.querySelector("button").textContent="Time Up Ms.Pooja!";
             clearInterval(CountdownTimer);
         }
     },1000)
